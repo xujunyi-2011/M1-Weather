@@ -1,0 +1,6 @@
+{
+  "name": "M1 天气",
+  "description": "经典 Material Design 1 风格的天气查询应用，提供实时全球天气数据。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

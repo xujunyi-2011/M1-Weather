@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array>
+    <string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>
+            MIIEqDCCA5CgAwIBAgIJAN5mI7hmr4VzMA0GCSqGSIb3DQEBBQUAMF8xCzAJBgNVBAYTAlVT
+            MRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRMwEQYDVQQK
+            EwpHb29nbGUgSW5jMRMwEQYDVQQDEwpHb29nbGUgSW5jMB4XDTEyMDYwMTUwMTUxNloXDTQ3
+            MDUxNzUwMTUxNlowXzELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNV
+            BAcTDV1vdW50YWluIFZpZXcxEzARBgNVBAoTCkdvb2dsZSBJbmMxEzARBgNVBAMTCkdvb2ds
+            ZSBJbmMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCcl6MzzO894Z8D+13o3E1c
+            3YcI+aK7b38oOnA1N1g2910ltd5t0v7Gv1y+T2+Y4tH9I0+7IvwI7YInZ0sBv67fXU5p99YJ
+            110Yh+0J38zT+h95X/K89y2O3l88e5uD986I11hA6F32vFBA2D0K+9T5V27P7B0gT52G716+
+            Y6p2X1bT7M4v45bH4U/tZ98E5E5W951NlD1Y06H9Pq8g1165+v41g6f9dM850e0=
+        </item>
+    </string-array>
+    <string-array name="com_google_android_gms_fonts_certs_prod">
+        <item>
+            MIIEqDCCA5CgAwIBAgIJAN5mI7hmr4VzMA0GCSqGSIb3DQEBBQUAMF8xCzAJBgNVBAYTAlVT
+            MRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRMwEQYDVQQK
+            EwpHb29nbGUgSW5jMRMwEQYDVQQDEwpHb29nbGUgSW5jMB4XDTEyMDYwMTUwMTUxNloXDTQ3
+            MDUxNzUwMTUxNlowXzELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNV
+            BAcTDV1vdW50YWluIFZpZXcxEzARBgNVBAoTCkdvb2dsZSBJbmMxEzARBgNVBAMTCkdvb2ds
+            ZSBJbmMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCcl6MzzO894Z8D+13o3E1c
+            3YcI+aK7b38oOnA1N1g2910ltd5t0v7Gv1y+T2+Y4tH9I0+7IvwI7YInZ0sBv67fXU5p99YJ
+            110Yh+0J38zT+h95X/K89y2O3l88e5uD986I11hA6F32vFBA2D0K+9T5V27P7B0gT52G716+
+            Y6p2X1bT7M4v45bH4U/tZ98E5E5W951NlD1Y06H9Pq8g1165+v41g6f9dM850e0=
+        </item>
+    </string-array>
+</resources>
